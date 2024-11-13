@@ -14,7 +14,7 @@ Develop and optimize a multi-class classification model for failure type predict
 ### Dataset Information
 NYSE Data: [New York Stock Exchange Data](https://www.kaggle.com/datasets/dgawlik/nyse)
 Contains historical price data and financial indicators for NYSE-listed companies.
-Predictive Maintenance Data: [Predictive Maintenance Data: Kaggle - Machine Predictive Maintenance Classification](https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification)
+Predictive Maintenance Data: [ Machine Predictive Maintenance Classification](https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification)
 Contains sensor data aimed at predicting machinery maintenance needs.
 # Project Workflow
 ## Part 1: NYSE Data Analysis
@@ -38,7 +38,7 @@ Standardize data, perform EDA, and balance classes via data augmentation.
 Build a DNN for predictive maintenance, targeting failure types in equipment.
 ### 3. Hyperparameter Tuning
 Use GridSearch to find optimal settings for improved model efficiency.
-###4. Training Visualization
+### 4. Training Visualization
 Plot Loss and Accuracy vs. Epochs for performance assessment.
 ### 5. Evaluation and Regularization
 Assess model using accuracy, sensitivity, F1 score, and implement regularization techniques.
